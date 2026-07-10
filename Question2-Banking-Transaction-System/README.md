@@ -19,7 +19,7 @@ The graphical user interface was created programmatically without using Qt Desig
 
 ---
 
-
+## Classes
 ### Gui
 
 Handles the graphical user interface and user interactions.
